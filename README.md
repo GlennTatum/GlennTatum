@@ -1,5 +1,5 @@
 
-__I am Glenn Tatum and currently self studying in Juinor High. I am very interested in SRE and the Cloud.__
+__I am Glenn Tatum and currently self studying in high school. I am very interested in SRE and the Cloud.__
 
 ### My Skills 🚀
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
