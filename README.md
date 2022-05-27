@@ -20,14 +20,13 @@ __I am Glenn Tatum and currently self studying in high school. I am very interes
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-%EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white&color=F05032)
 
 ### What im learning 🎓
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-### About Me🤓
+### About Me
 
-- 🔭 I’m currently working on a Django website with integrations to Ckan.
 - 🌱 I’m currently learning SRE and cloud fundementals.
 - 📘 I'm currently reading <a href="https://sre.google/sre-book/table-of-contents/">Site Reliability Engineering</a> - By Google
 
