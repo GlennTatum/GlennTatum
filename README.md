@@ -17,7 +17,7 @@ __I am Glenn Tatum and currently self studying in high school. I am very interes
 ### My Homelab 🏠
 
 ![Proxmox](https://img.shields.io/badge/Proxmox-%EA7E20.svg?style=for-the-badge&logo=Proxmox&logoColor=white&color=F05032)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-%EA7E20.svg?style=for-the-badge&logo=openvpn&logoColor=white&color=F05032)
+
 
 ### What im learning 🎓
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
