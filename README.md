@@ -30,3 +30,7 @@ __I am Glenn Tatum and currently self studying in high school. I am very interes
 - 🌱 I’m currently learning SRE and cloud fundementals.
 - 📘 I'm currently reading <a href="https://sre.google/sre-book/table-of-contents/">Site Reliability Engineering</a> - By Google
 
+### Cool stuff
+
+- 🐔 <a href="https://youtu.be/8edDcy3oeUo">Site Reliability Engineering at Chick-fil-A</a>
+
