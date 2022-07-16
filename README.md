@@ -33,3 +33,4 @@ __I am Glenn Tatum and currently self studying in high school. I am very interes
 
 - 🐔 <a href="https://youtu.be/8edDcy3oeUo">Site Reliability Engineering at Chick-fil-A</a>
 
+![:name](https://count.getloli.com/get/@:GlennTatum?theme=moebooru)
