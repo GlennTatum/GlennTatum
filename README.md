@@ -24,5 +24,3 @@
 ### Cool stuff
 
 - 🐔 <a href="https://youtu.be/8edDcy3oeUo">Site Reliability Engineering at Chick-fil-A</a>
-
-![:GlennTatum](https://count.getloli.com/get/@:GlennTatum?theme=moebooru)
