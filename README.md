@@ -1,5 +1,3 @@
-## Hi!
-
 I am a senior in the New York City Metropolitan area, interested in Site Reliability Engineering and Distributed Systems.
 
 ### Skills/Interests
