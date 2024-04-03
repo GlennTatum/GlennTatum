@@ -9,4 +9,4 @@ I am a senior in the New York City Metropolitan area, interested in Site Reliabi
 ### Learning Material
 <a href="https://sre.google/sre-book/table-of-contents/"><img src="https://m.media-amazon.com/images/I/91CMi+LGZiL._AC_UF1000,1000_QL80_.jpg" alt="drawing" width="128"/></a>
 
-<a href="https://youtu.be/8edDcy3oeUo">Site Reliability Engineering at Chick-fil-A</a>
+<a href="https://youtu.be/8edDcy3oeUo">Site Reliability Engineering at Chick-fil-A</a> 🐔
