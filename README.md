@@ -1,4 +1,4 @@
-I am an incoming freshman at the Rochester Institute of Technology, currently residing in the New York City Metropolitan area. I am interested in Site Reliability Engineering and Distributed Systems.
+I am a first year Computer Science student at the Rochester Institute of Technology. I am interested in Site Reliability Engineering and Distributed Systems. I like concurrency patterns in Go and gofmt.
 
 ### Skills/Interests
 
