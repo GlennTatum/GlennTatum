@@ -1,4 +1,4 @@
-I am a first year Computer Science student at the Rochester Institute of Technology. I am interested in Site Reliability Engineering and Distributed Systems. I like concurrency patterns in Go and gofmt.
+I am a first year Computer Science student at the Rochester Institute of Technology. I am interested in Site Reliability Engineering and Distributed Systems.
 
 ### Skills/Interests
 
