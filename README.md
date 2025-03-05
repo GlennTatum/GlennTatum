@@ -8,7 +8,8 @@ Currently at RIT I am a workshop lead in the Google Development Club, where I ho
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 
-### Learning Material
+### What I've been reading
 <a href="https://sre.google/sre-book/table-of-contents/"><img src="https://m.media-amazon.com/images/I/91CMi+LGZiL._AC_UF1000,1000_QL80_.jpg" alt="drawing" width="128"/></a>
 
+### What you should check out
 <a href="https://youtu.be/8edDcy3oeUo">Site Reliability Engineering at Chick-fil-A</a> 🐔
