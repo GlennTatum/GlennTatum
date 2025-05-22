@@ -1,4 +1,4 @@
-I am a first year Computer Science student at the Rochester Institute of Technology. I am interested in Site Reliability Engineering and Distributed Systems. 
+I am a second year Computer Science student at the Rochester Institute of Technology. I am interested in Site Reliability Engineering and Distributed Systems. 
 
 Currently at RIT I am a workshop lead in the Google Development Club, where I host talks on Cloud Native technologies and teach students about DevOps and programming in Go.
 
